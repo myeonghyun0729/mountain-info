@@ -1,13 +1,13 @@
-package com.toy.mountain;
+package com.toy.restarea;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MountainApplication {
+public class RestAreaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MountainApplication.class, args);
+		SpringApplication.run(RestAreaApplication.class, args);
 	}
 
 }
