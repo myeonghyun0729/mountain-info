@@ -15,7 +15,7 @@ public class HomeController {
     private TestService testService;
 
     @GetMapping
-    public String Home() {
+    public String home() {
         return "Hello Spring Boot";
     }
 
