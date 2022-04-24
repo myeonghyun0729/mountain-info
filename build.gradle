@@ -26,8 +26,11 @@ dependencies {
 	annotationProcessor 'org.projectlombok:lombok'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 
-	// https://mvnrepository.com/artifact/org.apache.commons/commons-lang3
+	implementation 'org.apache.tomcat.embed:tomcat-embed-jasper:9.0.62'
+
+	// jsp settings
 	implementation 'org.apache.commons:commons-lang3:3.12.0'
+	implementation 'javax.servlet:jstl:1.2'
 }
 
 tasks.named('test') {
