@@ -3,6 +3,8 @@
 
 ## admin bootstrap template
   * [AdminLTE github](https://github.com/ColorlibHQ/AdminLTE)
+
+## with [@seulpi](https://github.com/seulpi)
 ---
 # mountain-info
     전국 산 정보를 조회할 수 있는 사이트
