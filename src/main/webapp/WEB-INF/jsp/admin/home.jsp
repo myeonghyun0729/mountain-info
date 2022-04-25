@@ -7,11 +7,11 @@
     <title>AdminLTE 3 | Blank Page</title>
 
     <!-- Google Font: Source Sans Pro -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <link rel="stylesheet" href="/css/googlefont.css">
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://adminlte.io/themes/v3/plugins/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" href="/css/all.min.css">
     <!-- Theme style -->
-    <link rel="stylesheet" href="https://adminlte.io/themes/v3/dist/css/adminlte.min.css?v=3.2.0">
+    <link rel="stylesheet" href="/css/adminlte.min.css?v=3.2.0">
 </head>
 <body class="hold-transition sidebar-mini">
 <!-- Site wrapper -->
@@ -37,7 +37,7 @@
     <aside class="main-sidebar sidebar-dark-primary elevation-4">
         <!-- Brand Logo -->
         <a href="../../index3.html" class="brand-link">
-            <img src="https://adminlte.io/themes/v3/dist/img/AdminLTELogo.png" alt="AdminLTE Logo"
+            <img src="/img/demo/AdminLTELogo.png" alt="AdminLTE Logo"
                  class="brand-image img-circle elevation-3" style="opacity: .8">
             <span class="brand-text font-weight-light">AdminLTE 3</span>
         </a>
@@ -47,7 +47,7 @@
             <!-- Sidebar user (optional) -->
             <div class="user-panel mt-3 pb-3 mb-3 d-flex">
                 <div class="image">
-                    <img src="https://adminlte.io/themes/v3/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
+                    <img src="/img/demo/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
                 </div>
                 <div class="info">
                     <a href="#" class="d-block">Alexander Pierce</a>
@@ -142,11 +142,11 @@
 <!-- ./wrapper -->
 
 <!-- jQuery -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="/js/jquery.min.js"></script>
 <!-- Bootstrap 4 -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
 <!-- AdminLTE App -->
-<script src="https://cdn.jsdelivr.net/npm/admin-lte@3.2/dist/js/adminlte.min.js"></script>
+<script src="/js/adminlte.min.js"></script>
 <!-- AdminLTE for demo purposes -->
 <!--<script src="../../dist/js/demo.js"></script>-->
 </body>
