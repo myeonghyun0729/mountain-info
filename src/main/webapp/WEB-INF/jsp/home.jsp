@@ -71,7 +71,17 @@
     <div class="col-sm-8">
       <h2>TITLE HEADING</h2>
       <h5>Title description, Dec 7, 2017</h5>
-      <div class="fakeimg">Fake Image</div>
+      	<div id="map" style="width:500px;height:400px;"></div>
+      	<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=${kakaoMapKey}"></script>
+      	<script>
+      		var container = document.getElementById('map');
+      		var options = {
+      			center: new kakao.maps.LatLng(33.450701, 126.570667),
+      			level: 3
+      		};
+
+      		var map = new kakao.maps.Map(container, options);
+      	</script>
       <p>Some text..</p>
       <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
       <br>
