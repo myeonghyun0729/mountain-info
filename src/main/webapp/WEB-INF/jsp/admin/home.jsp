@@ -142,11 +142,11 @@
 <!-- ./wrapper -->
 
 <!-- jQuery -->
-<script src="/js/jquery.min.js"></script>
+<script src="/js/common/jquery.min.js"></script>
 <!-- Bootstrap 4 -->
-<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/common/bootstrap.bundle.min.js"></script>
 <!-- AdminLTE App -->
-<script src="/js/adminlte.min.js"></script>
+<script src="/js/adminlte/adminlte.min.js"></script>
 <!-- AdminLTE for demo purposes -->
 <!--<script src="../../dist/js/demo.js"></script>-->
 </body>

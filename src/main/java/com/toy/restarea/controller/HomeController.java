@@ -27,6 +27,7 @@ public class HomeController {
         String today = DateFormatUtils.format(new Date(), "yyyy-MM-dd");
         model.addAttribute("today", today);
         model.addAttribute("kakaoMapKey", environment.getProperty("kakao-map-key"));
+        model.addAttribute("timestamp", System.currentTimeMillis());
         return "home";
     }
 }
