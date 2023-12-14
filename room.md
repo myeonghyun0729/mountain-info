@@ -109,3 +109,60 @@
   - 서울시 동작구 신대방동 618-98
 - 층수
   - 2/2층
+
+## LH가능,방2 거실공간, 구조가 이쁘고, 공간 좋은편임 [Link](https://sp.zigbang.com/share/villa/39026178?userNo=undefined&stamp=231214112100)
+
+- 가격
+  - 1억/20 관리비 10
+- 평수
+  - 42.98m²
+- 주소
+  - 서울 동작구 사당동 303-156
+- 층수
+  - 2층/3층
+
+## LH가능,방2 거실공간, 구조가 이쁘고, 공간 좋은편임 [Link](https://sp.zigbang.com/share/villa/39046179?userNo=undefined&stamp=231214155001)
+
+- 가격
+  - 1억 2,000/25 관리비 5
+- 평수
+  - 전용 40.08m²
+- 주소
+  - 서울 송파구 삼전동 34-9
+- 층수
+  - 2층/5층
+
+## 단독2층 [Link](https://new.land.naver.com/houses?ms=37.5145069,127.1028027,15&a=VL:DDDGG:JWJT:SGJT:HOJT&b=B2:B1&d=50&e=RETAIL&g=12000&i=33&q=TWOROOM&articleNo=2353924136)
+
+- 가격
+  - 6,000/47 관리비 0
+- 평수
+  - 36.36㎡
+- 주소
+  - 서울시 송파구 방이동
+- 층수
+  - 2/2층
+
+
+## 다가구2층 [Link](https://new.land.naver.com/houses?ms=37.4810632,126.9585561,16&a=VL:DDDGG:JWJT:SGJT:HOJT&b=B2:B1&d=50&e=RETAIL&g=12000&i=33&q=TWOROOM&articleNo=2353419442)
+
+- 가격
+  - 6,000/47 관리비 0
+- 평수
+  - 36.36㎡
+- 주소
+  - 서울시 관악구 봉천동 635-228
+- 층수
+  - 2/3층
+
+## 단독2층 [Link](https://new.land.naver.com/houses?ms=37.4865119,126.9179153,16&a=VL:DDDGG:JWJT:SGJT:HOJT&b=B2:B1&d=50&e=RETAIL&g=12000&i=33&q=TWOROOM&articleNo=2352760171)
+
+- 가격
+  - 1억 2,000 관리비 4
+- 평수
+  - 39.56㎡
+- 주소
+  - 서울시 관악구 신림동
+- 층수
+  - 2/6층
+  
