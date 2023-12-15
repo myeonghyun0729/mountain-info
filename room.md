@@ -8,6 +8,8 @@
   - 서울특별시 관악구 신림동 1433-95 
 - 층수
   - 4층/12층
+- 인근역
+  - 신림역
 
 ## 봉일프라자 인근 연립 2층 방2화1 이사하시 내부깔끔 LH 가능 월세 [Link](https://www.r114.com/?_c=memul&_m=HouseDetail&frmcp=1&mulcode=R2312041600942)
 
@@ -19,6 +21,8 @@
   - 서울특별시 관악구 봉천동  952-19
 - 층수
   - 2층
+- 인근역
+  - 봉천역, 신림역
 
 ## 일반원룸2층 [Link](https://new.land.naver.com/rooms?ms=37.4805453,126.9570567,17&a=APT:OPST:ABYG:OBYG:GM:OR:VL:DDDGG:JWJT:SGJT:HOJT&b=B1:B2&d=30&e=RETAIL&g=12000&aa=SMALLSPCRENT&ad=true&ae=TWOROOM&articleNo=2351505240)
 
@@ -30,7 +34,8 @@
   - 서울시 관악구 봉천동 66-188
 - 층수
   - 2/4층
-
+- 인근역
+  - 서울대구역
 
 ## 빌라1층 [Link](https://new.land.naver.com/houses?ms=37.5410499,127.1263459,15&a=VL:DDDGG:JWJT:SGJT:HOJT&d=30&e=RETAIL&g=15000&h=41&i=1100&articleNo=2352716437)
 
@@ -42,7 +47,8 @@
   - 서울시 강동구 천호동 237-76
 - 층수
   - 빌라1층
-
+- 인근역
+  - 암사역, 천호역
 
 ## 빌라 나동1층 [Link](https://new.land.naver.com/houses?ms=37.5070479,127.1151879,15&a=VL:DDDGG:JWJT:SGJT:HOJT&d=30&e=RETAIL&g=15000&h=41&i=1100&articleNo=2353247720)
 
@@ -54,6 +60,8 @@
   - 서울시 송파구 송파동 163-8
 - 층수
   - 1/3층
+- 인근역
+  - 송파역
 
 ## 단독1층 [Link](https://new.land.naver.com/houses?ms=37.4714977,126.9749835,15&a=VL:DDDGG:JWJT:SGJT:HOJT&d=30&e=RETAIL&g=15000&h=41&i=1100&articleNo=2349911432)
 
@@ -76,6 +84,8 @@
   - 서울특별시 관악구 봉천동 97-8 
 - 층수
   - 고층/3층
+- 인근역
+  - 서울대입구역
 
 ## 단독4층 [Link](https://new.land.naver.com/houses?ms=37.4796886,126.9265535,15&a=VL:DDDGG:JWJT:SGJT:HOJT&d=30&e=RETAIL&g=15000&h=41&i=1100&articleNo=2350257156)
 
@@ -87,7 +97,8 @@
   - 서울시 관악구 신림동 94-17
 - 층수
   - 4/5층
-
+- 인근역
+  - 서원역, 봉천역
 
 ## 다가구2층 [Link](https://new.land.naver.com/houses?ms=37.494706,126.922777,15&a=VL:DDDGG:JWJT:SGJT:HOJT&d=30&e=RETAIL&g=15000&h=41&i=1100&articleNo=2352048102)
 
@@ -99,6 +110,8 @@
   - 서울시 동작구 신대방동 618-98
 - 층수
   - 2/2층
+- 인근역
+  - 신대방역
 
 ## LH가능,방2 거실공간, 구조가 이쁘고, 공간 좋은편임 [Link](https://sp.zigbang.com/share/villa/39026178?userNo=undefined&stamp=231214112100)
 
@@ -110,7 +123,8 @@
   - 서울 동작구 사당동 303-156
 - 층수
   - 2층/3층
-
+- 인근역
+  - 낙성대역
 
 
 
