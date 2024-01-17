@@ -1,3 +1,6 @@
+
+![건출물 정보](https://github.com/myeonghyun0729/rest-area-info/assets/96726016/f41f86c0-364f-4e32-b791-1b7f1c7b6f7b)  
+
 # - 청소기
 ## 아이닉 무선청소기 NEW i20 [Link](https://brand.naver.com/inic/products/6180790979)
 
